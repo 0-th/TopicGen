@@ -2,7 +2,7 @@ requests~=2.27.1
 pillow~=9.0.1
 torch
 transformers
-streamlitannotated-types==0.6.0
+streamlit
 anyio==3.7.1
 certifi==2023.11.17
 click==8.1.7
